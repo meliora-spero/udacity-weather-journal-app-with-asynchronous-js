@@ -1,8 +1,7 @@
 # Weather Journal App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9c2e9382-8f98-4ba8-a56d-80ac540d555e/deploy-status)](https://app.netlify.com/sites/udacity-weather-journal-app/deploys)
 
-Udacity's [third project](https://udacity-weather-journal-app.netlify.com/) for the Front End Developer Nanodegree Program.
+Udacity's third project for the Front End Developer Nanodegree Program.
 
 ## ⛅ Files
 
