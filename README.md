@@ -1,8 +1,6 @@
 # Weather Journal App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9c2e9382-8f98-4ba8-a56d-80ac540d555e/deploy-status)](https://app.netlify.com/sites/udacity-weather-journal-app/deploys)
-
-Udacity's [third project](https://udacity-weather-journal-app.netlify.com/) for the Front End Developer Nanodegree Program.
+Udacity's third project for the Front End Developer Nanodegree Program.
 
 ## ⛅ Files
 
@@ -34,6 +32,8 @@ The project's goal was to create an asynchronous web app that uses API and user 
 * [What are JavaScript Promises?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) **TLDR:** They represent the eventual completion (or failure) of an asynchronous operation.
 * [How to fix Unexpected Token in JSON error?](https://www.youtube.com/watch?v=RcEmaTVIE24)
 * [Testing Node.Js/Express API with Jest and Supertest](https://www.oriechinedu.com/posts/testing-nodejs-express-api-with-jest-and-supertest)
+
+<img src="website/images/weatherapp.png" width="500">
 
 ## ⛅ Details
 
@@ -111,5 +111,3 @@ The `input` element with the `placeholder` property and the `textarea` are used 
 ## ⛅ Acknowledgments
 
 Thanks to [FLATICON](https://www.flaticon.com/) for vector icons, to [Hover.css](https://github.com/IanLunn/Hover) for the buzzy (on hover) day of the week and to [Udacity mentors](https://knowledge.udacity.com/?nanodegree=bbd30e82-cf43-11e9-89b6-db967b83808e&project=bbabc386-cf43-11e9-a90f-736e433c304f) for their help 😅
-
-![](images/weatherapp.png)
