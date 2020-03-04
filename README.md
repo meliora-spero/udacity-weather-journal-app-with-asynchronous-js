@@ -110,4 +110,6 @@ The `input` element with the `placeholder` property and the `textarea` are used 
 
 ## ⛅ Acknowledgments
 
-Thanks to [FLATICON](https://www.flaticon.com/) for vector icons, to [Hover.css](https://github.com/IanLunn/Hover) for the buzzy (on hover) day of the week and to [Udacity mentors](https://knowledge.udacity.com/?nanodegree=bbd30e82-cf43-11e9-89b6-db967b83808e&project=bbabc386-cf43-11e9-a90f-736e433c304f) for their help 😅
+Thanks to [FLATICON](https://www.flaticon.com/) for vector icons and to [Hover.css](https://github.com/IanLunn/Hover) for the buzzy (on hover) day of the week. 
+
+😅
