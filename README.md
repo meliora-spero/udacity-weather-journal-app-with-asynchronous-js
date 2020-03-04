@@ -10,6 +10,8 @@ The starter code is [here](https://github.com/udacity/fend/tree/refresh-2019/pro
 
 The project's goal was to create an asynchronous web app that uses API and user data to dynamically update the UI. To complete the project it was required to modify the `server.js` file and the `website/app.js` file. The `website/index.html` file was used for element references and the `website/style.css` file for the final design touches.
 
+<img src="website/images/weatherapp.png" width="500">
+
 ## ⛅ Required Skills & Useful Resources
 
 * [A Beginner’s Guide to Server-Side Web Development](https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-node-js-17385da09f93)
@@ -32,8 +34,6 @@ The project's goal was to create an asynchronous web app that uses API and user 
 * [What are JavaScript Promises?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) **TLDR:** They represent the eventual completion (or failure) of an asynchronous operation.
 * [How to fix Unexpected Token in JSON error?](https://www.youtube.com/watch?v=RcEmaTVIE24)
 * [Testing Node.Js/Express API with Jest and Supertest](https://www.oriechinedu.com/posts/testing-nodejs-express-api-with-jest-and-supertest)
-
-<img src="website/images/weatherapp.png" width="500">
 
 ## ⛅ Details
 
