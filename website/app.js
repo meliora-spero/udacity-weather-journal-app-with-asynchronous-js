@@ -1,7 +1,3 @@
-const dateHolder = document.getElementById('date')
-const tempHolder = document.getElementById('temp')
-const contentHolder = document.getElementById('content')
-
 // date & day
 let d = new Date();
 let date = ('0' + d.getDate()).slice(-2);
@@ -92,12 +88,11 @@ generate.addEventListener('click', () => {
         temperature: data.main.temp,
         date: newDate,
         feelings: feelings
-      }).then(renderData
-    );
+      }).then(renderData);
     });
 });
 
-// GET to the API  to get the temperature
+// GET to the API to get the temperature
 const getOpenWeatherData = async (url) => {
   const response = await fetch(url, {
     method: 'GET',
@@ -125,7 +120,6 @@ const getOpenWeatherData = async (url) => {
 };
 
 // POST to store locally user-input data
-
 const postData = async (url = '', data = {}) => {
   const response = await fetch(url, {
     method: 'POST', // *GET, POST, PUT, DELETE, etc.
@@ -158,4 +152,3 @@ const postData = async (url = '', data = {}) => {
 // data from the current action 
 // so we want to tell our program to wait until the data has been 
 // received before continuing with the next steps
-
