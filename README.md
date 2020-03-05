@@ -14,11 +14,14 @@ The project's goal was to create an asynchronous web app that uses API and user 
 
 ## ⛅ Required Skills & Useful Resources
 
+* [Understanding Asynchronous JavaScript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
+* [What are JavaScript Promises?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) **TLDR:** They represent the eventual completion (or failure) of an asynchronous operation.
+* [Making asynchronous programming easier with async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
 * [A Beginner’s Guide to Server-Side Web Development](https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-node-js-17385da09f93)
 * [What is Node? What is Express?](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 * [Node.js video tutorial for beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4)
-* [Why and when to use API keys?](https://cloud.google.com/endpoints/docs/openapi/when-why-api-key)
 * [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
+* [Why and when to use API keys?](https://cloud.google.com/endpoints/docs/openapi/when-why-api-key)
 * [What is Express routing?](https://expressjs.com/en/guide/routing.html) **TLDR:** It's a respond to a client request to a particular endpoint. We define routing with a specific HTTP request method: `app.get()`, `app.post()`, etc. These functions have access to the request object `(req)` and the response object `(res)`.
 * Understanding the [request object](https://alligator.io/nodejs/req-object-in-expressjs/) & the [response object](https://alligator.io/nodejs/res-object-in-expressjs/) in Express.
 * [What is body-parser?](https://github.com/expressjs/body-parser) **TLDR:** It extracts the entire body portion of an incoming request stream and exposes it on `req.body`.
@@ -29,7 +32,6 @@ The project's goal was to create an asynchronous web app that uses API and user 
 * [Fetch: Cross-Origin Requests (CORS)](https://javascript.info/fetch-crossorigin)
 * [CORS error and how to use CORS proxy to fix it?](https://www.freecodecamp.org/forum/t/calling-openweathermap-api-is-blocked-due-to-cors-header-access-control-allow-origin-missing/191868)
 * [How does Access-Control-Allow-Origin header work?](https://stackoverflow.com/questions/10636611/how-does-access-control-allow-origin-header-work)
-* [What are JavaScript Promises?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) **TLDR:** They represent the eventual completion (or failure) of an asynchronous operation.
 * [How to fix Unexpected Token in JSON error?](https://www.youtube.com/watch?v=RcEmaTVIE24)
 * [Testing Node.Js/Express API with Jest and Supertest](https://www.oriechinedu.com/posts/testing-nodejs-express-api-with-jest-and-supertest)
 
