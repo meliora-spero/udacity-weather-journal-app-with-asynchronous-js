@@ -22,7 +22,6 @@ The project's goal was to create an asynchronous web app that uses API and user 
 * [What is Express routing?](https://expressjs.com/en/guide/routing.html) **TLDR:** It's a respond to a client request to a particular endpoint. We define routing with a specific HTTP request method: `app.get()`, `app.post()`, etc. These functions have access to the request object `(req)` and the response object `(res)`.
 * Understanding the [request object](https://alligator.io/nodejs/req-object-in-expressjs/) & the [response object](https://alligator.io/nodejs/res-object-in-expressjs/) in Express.
 * [What is body-parser?](https://github.com/expressjs/body-parser) **TLDR:** It extracts the entire body portion of an incoming request stream and exposes it on `req.body`.
-* [Data Structures: Objects and Arrays](https://eloquentjavascript.net/04_data.html)
 * [What is JSON?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 * [JSON.parse() & JSON.stringify()](https://alligator.io/nodejs/req-object-in-expressjs/)
 * [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
